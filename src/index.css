@@ -1,0 +1,16 @@
+* {
+  box-sizing:border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.gray {
+  color: #918E9B;
+}
+
+.bold{
+  font-weight: bold;
+}
